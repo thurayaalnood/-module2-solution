@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+body{
+    font-family: 'Indie Flower', cursive;
+}
+
+.div-content{
+  text-align: center;
+  background-color: #ddd;
+  padding: 30px;
+  margin: 30px;
+}
+
+.title-home{
+  text-align: center;
+  padding: 50px;
+}
